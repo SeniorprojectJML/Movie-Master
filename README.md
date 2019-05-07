@@ -41,7 +41,7 @@ Rest of the Dependencies that are required can be installed by typing the follow
 
 pip install -r requirements.txt
 
-# This project can be hosted but for the current scope of the project it will be on local server.
+# This project can be hosted but for the current scope of the project it will be on local server
 
 Go to Src of the project like below 
 cd /MovieMaster/src
